@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imurnaili&label=Profile%20views&color=0e75b6&style=flat" alt="imurnailimixam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imurnaili&label=Profile%20views&color=0e75b6&style=flat" alt="imurnaili" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imurnailimixam&theme=monokai&margin-w=15" alt="imurnailimixam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imurnaili&theme=monokai&margin-w=15" alt="imurnaili" /></a> </p>
 
 
 ## 💬 Languages and 🔨 Tools
